@@ -25,3 +25,6 @@ so here is the final project User Interface.
 
 View 1:
 This is the first view of sudoku game's UI 
+![Sudoku 1](https://github.com/Vedango7/SudokuPuzzle/assets/137282103/d79ce4c9-cd36-46fb-9cba-1972cb6a63b4)
+
+
