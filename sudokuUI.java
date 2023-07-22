@@ -6,7 +6,7 @@ package com.mycompany.sudoku;
 
 /**
  *
- * @author USER
+ * @author  USER
  */
 import java.awt.Color;
 import javax.swing.JOptionPane;
